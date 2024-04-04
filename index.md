@@ -9,7 +9,7 @@ layout: page
 Here is **Tonglin ZHANG (Tony, 张桐林)**.
 
 I am a senior undergrad majoring in econ at *Nanjing University of Aeronautics and Astronautics*, commonly known as Nanhang. I am currently working as a remote research assistant at the *Hong Kong Polytechnic University*, and I will be traveling to the Hong Kong SAR this summer (expected in August) to conduct onsite research.
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ztonys[dot]outlook[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ztonys[at]outlook[dot]com*
 
 ## Academic Background
 
