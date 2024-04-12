@@ -13,10 +13,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News Updates
 
-- Mar 2023 - **Grand Prize at the National Level** in 9th *China National College Students Competition on Energy Economics*. [[<font color='DodgerBlue'>learn more</font>](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9)]
+- Mar 2023 - **Grand Prize at the National Level** in 9th *China National College Students Competition on Energy Economics*. Yunfei Chen, Luhan You and <u>Tonglin Zhang</u>. *Research on offshore wind power investment evaluation based on real options.* [[<font color='DodgerBlue'>learn more</font>](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9)]
 
 <!-- ## Working Project -->
-
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 25fall or 25spring. Contact me if you have any leads!**
