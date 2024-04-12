@@ -13,7 +13,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## News Updates
 
-- Mar 2023 - **Nationa Grand Reward** in 9th *China National College Students Competition on Energy Economics*. [[<font color='DodgerBlue'>learn more</font>](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9)]
+- Mar 2023 - **Grand Prize at the National Level** in 9th *China National College Students Competition on Energy Economics*. [[<font color='DodgerBlue'>learn more</font>](http://energy.qibebt.ac.cn/eneco/contribution/index.html#/newsDetail?id=9d66d0a0-f870-11ed-9cd6-4baac5585629&activeTab=1&select=9)]
 
 <!-- ## Working Project -->
 
